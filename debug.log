@@ -1,0 +1,5 @@
+[0929/153709.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0929/153709.939:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\camil\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\b03ef6c5-f32a-4ca9-b238-67bd66c9c7d3: El sistema no puede encontrar la ruta especificada. (0x3)
+[1008/181230.808:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1008/181230.811:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\camil\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\52c69cd4-1f70-46c8-bee2-039570343c72: El sistema no puede encontrar la ruta especificada. (0x3)
+[1008/181230.818:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\camil\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\40c08c5d-bf4b-4e62-a3e3-ca362e5974d4: El sistema no puede encontrar la ruta especificada. (0x3)
