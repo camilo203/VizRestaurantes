@@ -95,14 +95,14 @@ with lefc:
 with rigc:
     st.plotly_chart(eIBar, use_container_width=True)
 
-# hide_st = """
-#         <style>
-#         #MainMenu {visibility: hidden;}
-#         footer {visibility: hidden;}
-#         header {visibility: hidden;}
-#         </style>
-#         """
-# st.markdown(hide_st, unsafe_allow_html=True)
+hide_st = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        </style>
+        """
+st.markdown(hide_st, unsafe_allow_html=True)
 
 l, m, r = st.columns(3)
 
