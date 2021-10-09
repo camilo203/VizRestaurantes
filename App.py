@@ -110,7 +110,7 @@ with m:
     button = st.button("Generar Reporte")
 
 if button:
-    st.markdown("[Descargue su reporte automatizado aqui:](https://www.google.com/)")
+    st.markdown("[Descargue su reporte automatizado aqui:](https://res.cloudinary.com/camilo203/image/upload/v1633817204/Azul_Turquesa_Ancho_Empresa_Presentaci%C3%B3n_gkrb09.png)")
 
 
 
